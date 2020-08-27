@@ -1,2 +1,3 @@
 # Money-Example
-Exemplo do livro Test-Driven Development by Example de Kent Beck
+
+Código do exemplo Money presente no livro Test-Driven Development by Example de Kent Beck

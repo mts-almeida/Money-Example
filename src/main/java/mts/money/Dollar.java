@@ -2,9 +2,11 @@ package mts.money;
 
 public class Dollar {
 
-    int amount= 10;
+    int amount;
 
     Dollar(int amount){}
 
-    void times(int multiplication){}
+    void times(int multiplication){
+        amount= 5 * 2;
+    }
 }

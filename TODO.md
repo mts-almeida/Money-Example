@@ -5,3 +5,5 @@
 * Tornar `amount` privado
 * ~~efeito colateral em Dollar~~
 * arredondamento em Momey
+* **equals()**
+* hashcode

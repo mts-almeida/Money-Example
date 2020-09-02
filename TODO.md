@@ -13,3 +13,4 @@
 * Dollar/Franc duplicação
 * ~~Comum equals~~
 * Comum times
+* **Comparar Francs com Dollars**

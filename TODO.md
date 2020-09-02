@@ -11,5 +11,5 @@
 * Equal object
 * ~~5 CHF * 2 = 10 CHF~~
 * Dollar/Franc duplicação
-* Comum equals
+* **Comum equals**
 * Comum times

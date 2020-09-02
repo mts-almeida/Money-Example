@@ -2,6 +2,8 @@ package mts.money;
 
 import org.junit.jupiter.api.Test;
 
+import static org.junit.jupiter.api.Assertions.assertEquals;
+
 class DollarTest {
 
     @Test

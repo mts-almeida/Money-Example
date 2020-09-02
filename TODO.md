@@ -15,3 +15,4 @@
 * Comum times
 * ~~Comparar Francs com Dollars~~
 * Moeda?
+* Deletar testFrancMultiplications?

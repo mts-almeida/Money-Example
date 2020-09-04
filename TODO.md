@@ -10,7 +10,7 @@
 * Equal null
 * Equal object
 * ~~5 CHF * 2 = 10 CHF~~
-* **Dollar/Franc duplicação**
+* ~~Dollar/Franc duplicação~~
 * ~~Comum equals~~
 * ~~Comum times~~
 * ~~Comparar Francs com Dollars~~

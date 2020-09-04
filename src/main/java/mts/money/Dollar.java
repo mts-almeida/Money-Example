@@ -2,9 +2,8 @@ package mts.money;
 
 public class Dollar extends Money {
 
-    Dollar(int amount, String currenry){
-        this.amount = amount;
-        this.currency= currenry;
+    Dollar(int amount, String currency){
+        super(amount, currency);
     }
 
     Money times(int multiplier){

@@ -1,6 +1,6 @@
 package mts.money;
 
-public class Money {
+public class Money implements Expression{
 
     protected int amount;
     protected String currency;
@@ -22,7 +22,7 @@ public class Money {
         return new Money(amount * multiplier, currency);
     }
 
-    Money plus(Money addend){
+    Expression plus(Money addend){
         return new Money(amount+ addend.amount, currency);
     }
 

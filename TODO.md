@@ -4,5 +4,5 @@
 * **$5 + $5 = $10**
 * Retornar Money de $5 + $5
 * ~~Bank.reduce(Money)~~
-* Reduce Money com conversão
+* **Reduce Money com conversão**
 * Reduce(Bank, String)

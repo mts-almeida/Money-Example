@@ -29,4 +29,9 @@ class BankTest {
         assertEquals(Money.dollar(1),result);
     }
 
+    @Test
+    public void testIdentidyRate(){
+        assertEquals(1, new Bank().rate("USD", "USD"));
+    }
+
 }

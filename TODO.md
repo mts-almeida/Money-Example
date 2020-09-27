@@ -7,4 +7,4 @@
 * ~~Reduce Money com conversão~~
 * ~~Reduce(Bank, String)~~
 * ~~Sum.plus~~
-* **Expression.times**
+* ~~Expression.times~~
